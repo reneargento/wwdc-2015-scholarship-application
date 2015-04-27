@@ -1,5 +1,5 @@
 # WWDC 2015 Scholarship Application
-App that highlights my education and professional background sent to apply to WWDC 2015 scholarship.
+App that highlights my educational and professional background sent to apply to WWDC 2015 scholarship.
 
 ###**Screenshots** <br/>
 ## Main Screen
